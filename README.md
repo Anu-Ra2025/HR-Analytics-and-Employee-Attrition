@@ -1,6 +1,7 @@
 #     HR Analytics and Employee Attrition Insights at Wipro
 
-![Screenshot 2025-05-11 023106](https://github.com/user-attachments/assets/165b223c-7330-443f-99cd-f1cd0937b251)
+![WhatsApp Image 2025-05-11 at 2 31 28 AM](https://github.com/user-attachments/assets/f2113469-d44e-441b-a377-0a572fcbf419)
+
 
 
 The HR Wipro dataset includes information on 100 employees, detailing their department, tenure, age, and satisfaction ratings across key areas such as compensation, career growth, work-life balance, and job role. It also captures additional factors like location, remote work policies, market trends, and company performance. This dataset is instrumental in analyzing employee experiences and organizational patterns.
