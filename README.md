@@ -84,7 +84,7 @@ Employee distribution was analyzed across seven locations: Hyderabad, Bangalore,
 ![9 0location Distribution](https://github.com/user-attachments/assets/f78fc92b-8913-41da-881d-e532ad91ca3e)
 
 
-## Employee Retention
+## Employee Operations
 
 * Tenure analysis
 
