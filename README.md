@@ -51,7 +51,8 @@ It was observed that the tenure was not accurately calculated based on the Start
 
 Create date base as Wipro in my SQL and import the table as well.
 
-![Uploading 7 create wipro dtabase & insert tanle in SQL.png…]()
+![7 create wipro dtabase   insert tanle in SQL](https://github.com/user-attachments/assets/83a987ea-a2a2-4977-85fb-8aecbf9c4e36)
+
 
 The dataset has 100 records and 14 columns, covering:
 * Employee details: Employee ID, Department, Start_Date, End_Date, Tenure, Age, Location
